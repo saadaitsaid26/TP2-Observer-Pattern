@@ -1,0 +1,13 @@
+# Build output
+target/
+out/
+*.class
+
+# IDEs
+.idea/
+*.iml
+.vscode/
+
+# Windows
+desktop.ini
+Thumbs.db
